@@ -1,0 +1,7 @@
+name: mc-plug-k
+version: '1.0-SNAPSHOT'
+main: ksu.swat.mcPlugK.McPlugK
+api-version: '1.21.11'
+authors: [ SwAT mc group ]
+description: plugin training ground
+website: https://github.com/swat-ksu

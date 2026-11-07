@@ -1,0 +1,49 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/**/build/
+
+# Kotlin
+.kotlin/
+*.kotlin_module
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Test server
+run/
+server/
+plugins/
+logs/
+world/
+world_nether/
+world_the_end/
+cache/
+libraries/
+versions/
+*.log
+
+# Compiled
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
